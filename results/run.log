@@ -1,0 +1,40 @@
+[1/5] main comparison
+  qaoa        done in  16.2s
+  qubo_exact  done in   0.0s
+  qubo_sa     done in   0.7s
+  ilp         done in   0.1s
+  greedy      done in   0.0s
+[2/5] grover scaling
+[3/5] qaoa depth sweep
+  depth sweep n=12 done
+  depth sweep n=11 done
+  depth sweep n=10 done
+[4/5] noise study
+  noise grover p=0
+  noise grover p=0.0001
+  noise grover p=0.0005
+  noise grover p=0.001
+  noise grover p=0.002
+  noise grover p=0.005
+  noise grover p=0.01
+  noise qaoa p=0
+  noise qaoa p=0.0001
+  noise qaoa p=0.0005
+  noise qaoa p=0.001
+  noise qaoa p=0.002
+  noise qaoa p=0.005
+  noise qaoa p=0.01
+[5/5] scarcity sweep
+  scarcity base=4.5 seed=1 done
+  scarcity base=4.5 seed=2 done
+  scarcity base=4.5 seed=3 done
+  scarcity base=3.0 seed=1 done
+  scarcity base=3.0 seed=2 done
+  scarcity base=3.0 seed=3 done
+  scarcity base=2.0 seed=1 done
+  scarcity base=2.0 seed=2 done
+  scarcity base=2.0 seed=3 done
+  scarcity base=1.2 seed=1 done
+  scarcity base=1.2 seed=2 done
+  scarcity base=1.2 seed=3 done
+done
